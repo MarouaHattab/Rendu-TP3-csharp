@@ -1,0 +1,63 @@
+# Ignorer les fichiers de compilation et de build
+[Bb]in/
+[Oo]bj/
+
+# Ignorer les fichiers de cache et de logs
+*.log
+*.cache
+
+# Ignorer les fichiers de configuration utilisateur
+*.user
+*.suo
+*.userprefs
+
+# Ignorer les fichiers de projet temporaires
+*.csproj.user
+*.vbproj.user
+
+# Ignorer les fichiers de sortie de build
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]uild/
+[Oo]utput/
+
+# Ignorer les packages NuGet
+[Nn]uget/
+*.nupkg
+packages/
+
+# Ignorer les fichiers de cache de Visual Studio
+.vs/
+.vscode/
+
+# Ignorer les fichiers de test
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Ignorer les fichiers de résolution de dépendances
+**/.DS_Store
+**/.vs/
+**/.vscode/
+
+# Ignorer les fichiers de déploiement
+*.publishsettings
+
+# Ignorer les fichiers de base de données locale
+*.mdf
+*.ldf
+
+# Ignorer les fichiers de sauvegarde
+*.bak
+*.tmp
+
+# Ignorer les fichiers spécifiques à Rider (IDE JetBrains)
+.idea/
+*.sln.iml
+
+# Ignorer les fichiers spécifiques à macOS
+.DS_Store
+
+# Ignorer les fichiers spécifiques à Windows
+Thumbs.db
