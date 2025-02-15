@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\MSI\\source\\repos\\RenduTP3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79936077-506B-43A0-9F1A-2F478F61CA95}|RenduTP3\\RenduTP3.csproj|c:\\users\\msi\\source\\repos\\rendutp3\\rendutp3\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{79936077-506B-43A0-9F1A-2F478F61CA95}|RenduTP3\\RenduTP3.csproj|solutionrelative:rendutp3\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{79936077-506B-43A0-9F1A-2F478F61CA95}|RenduTP3\\RenduTP3.csproj|c:\\users\\msi\\source\\repos\\rendutp3\\rendutp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79936077-506B-43A0-9F1A-2F478F61CA95}|RenduTP3\\RenduTP3.csproj|solutionrelative:rendutp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79936077-506B-43A0-9F1A-2F478F61CA95}|RenduTP3\\RenduTP3.csproj|c:\\users\\msi\\source\\repos\\rendutp3\\rendutp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{79936077-506B-43A0-9F1A-2F478F61CA95}|RenduTP3\\RenduTP3.csproj|C:\\Users\\MSI\\source\\repos\\RenduTP3\\rendutp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{79936077-506B-43A0-9F1A-2F478F61CA95}|RenduTP3\\RenduTP3.csproj|solutionrelative:rendutp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79936077-506B-43A0-9F1A-2F478F61CA95}|RenduTP3\\RenduTP3.csproj|c:\\users\\msi\\source\\repos\\rendutp3\\rendutp3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79936077-506B-43A0-9F1A-2F478F61CA95}|RenduTP3\\RenduTP3.csproj|solutionrelative:rendutp3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79936077-506B-43A0-9F1A-2F478F61CA95}|RenduTP3\\RenduTP3.csproj|c:\\users\\msi\\source\\repos\\rendutp3\\rendutp3\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{79936077-506B-43A0-9F1A-2F478F61CA95}|RenduTP3\\RenduTP3.csproj|solutionrelative:rendutp3\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79936077-506B-43A0-9F1A-2F478F61CA95}|RenduTP3\\RenduTP3.csproj|c:\\users\\msi\\source\\repos\\rendutp3\\rendutp3\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\RenduTP3\\RenduTP3\\README.md",
               "RelativeDocumentMoniker": "RenduTP3\\README.md",
@@ -63,20 +63,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\RenduTP3\\RenduTP3\\Form1.cs",
               "RelativeDocumentMoniker": "RenduTP3\\Form1.cs",
               "ToolTip": "C:\\Users\\MSI\\source\\repos\\RenduTP3\\RenduTP3\\Form1.cs",
               "RelativeToolTip": "RenduTP3\\Form1.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAADgv1wAAACJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T16:00:44.25Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Conception]",
               "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\RenduTP3\\RenduTP3\\Form1.cs",
               "RelativeDocumentMoniker": "RenduTP3\\Form1.cs",
@@ -88,13 +88,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\RenduTP3\\RenduTP3\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "RenduTP3\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\MSI\\source\\repos\\RenduTP3\\RenduTP3\\Form1.Designer.cs",
               "RelativeToolTip": "RenduTP3\\Form1.Designer.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwDMAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDMAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T15:22:01.842Z",
               "EditorCaption": ""
@@ -109,8 +109,7 @@
               "RelativeToolTip": "RenduTP3\\TriangleEquilateral.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAADwvxsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T15:07:20.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T15:07:20.975Z"
             },
             {
               "$type": "Document",
@@ -122,8 +121,7 @@
               "RelativeToolTip": "RenduTP3\\Rectangle.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAiwBkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T15:06:26.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T15:06:26.007Z"
             },
             {
               "$type": "Document",
@@ -135,8 +133,7 @@
               "RelativeToolTip": "RenduTP3\\Carre.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAIwBsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T15:08:01.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T15:08:01.433Z"
             },
             {
               "$type": "Document",
@@ -148,8 +145,7 @@
               "RelativeToolTip": "RenduTP3\\Cercle.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwBsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T15:08:45.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T15:08:45.535Z"
             },
             {
               "$type": "Document",
@@ -161,8 +157,7 @@
               "RelativeToolTip": "RenduTP3\\FormeGeometrique.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T15:05:34.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T15:05:34.129Z"
             }
           ]
         }

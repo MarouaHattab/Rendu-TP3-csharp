@@ -11,10 +11,12 @@ namespace RenduTP3
             textBoxDimension2.Visible = false;
             labelDimension1.Visible = false;
             labelDimension2.Visible = false;
+            buttonCalculer.Enabled = false;
         }
 
         private void comboBoxFormes_SelectedIndexChanged(object sender, EventArgs e)
         {
+            buttonCalculer.Enabled = true;
             textBoxDimension1.Visible = false;
             textBoxDimension2.Visible = false;
             labelDimension1.Visible = false;
