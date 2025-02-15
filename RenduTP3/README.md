@@ -98,6 +98,3 @@ Cette application Windows Forms illustre les concepts de la Programmation Orient
   - **Résultat obtenu** : Message "Le côté doit être positif"
   - **Statut** : ✅ Succès
 
-## 📸 Captures d'écran
-
-- **Interface principale** : ![output](img/interface_principale.png)
